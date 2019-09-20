@@ -4,3 +4,5 @@ export * from './replicaton-subnet-group';
 export * from './replication-subnet-group-ref';
 export * from './replication-instance';
 export * from './replication-instance-ref';
+export * from './endpoint';
+export * from './rds-endpoint';
