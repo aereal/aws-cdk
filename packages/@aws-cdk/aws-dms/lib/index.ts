@@ -8,3 +8,5 @@ export * from './endpoint';
 export * from './rds-endpoint';
 export * from './replication-task';
 export * from './replication-task-settings';
+export * from './certificate';
+export * from './certificate-ref';
