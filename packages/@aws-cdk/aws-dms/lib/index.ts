@@ -6,4 +6,5 @@ export * from './replication-instance';
 export * from './replication-instance-ref';
 export * from './endpoint';
 export * from './rds-endpoint';
+export * from './replication-task';
 export * from './replication-task-settings';

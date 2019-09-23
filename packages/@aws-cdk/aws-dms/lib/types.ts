@@ -14,3 +14,5 @@ export type RDBEngineName = RDSEngineName | 'azuredb' | 'sybase' | 'db2';
 export type EngineName = RDBEngineName | 'redshift' | 's3' | 'dynamodb' | 'mongodb';
 
 export type SslMode = 'none' | 'require' | 'verify-ca' | 'verify-full';
+
+export type MigrationType = 'cdc'|'full-load'|'full-load-and-cdc';
